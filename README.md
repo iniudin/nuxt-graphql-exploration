@@ -15,3 +15,7 @@ The application will be available at [http://localhost:3000](http://localhost:30
 ## GraphQL API
 
 The GraphQL API is accessible at [http://localhost:4000/graphql](http://localhost:3000/api/graphql).
+
+### Live Demo
+- [Backend](http://demo.udin.web.id:4000/graphql)
+- [Frontend](http://demo.udin.web.id:3000)
