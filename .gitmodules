@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/iniudin/nuxt-exploration.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/iniudin/elysiajs-graphql.git
